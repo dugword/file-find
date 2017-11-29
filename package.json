@@ -1,0 +1,19 @@
+{
+  "name": "file-find",
+  "version": "0.1.0",
+  "description": "Recursively list file names",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "file-find",
+    "file",
+    "find",
+    "recursive",
+    "ls",
+    "directories"
+  ],
+  "author": "Douglas L. Jenkins <douglas.jenkins@nike.com>",
+  "license": "ISC"
+}
