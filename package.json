@@ -1,6 +1,6 @@
 {
   "name": "file-find",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Recursively list file names",
   "main": "index.js",
   "scripts": {
